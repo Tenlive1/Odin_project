@@ -30,8 +30,11 @@ Add two more recipes with identical page structures to the recipe page you’ve 
 Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
 
 site that i copy because im too lazy to come up with an idea
+
 https://www.allrecipes.com/recipe/274077/japanese-curry/
+
 https://www.allrecipes.com/recipe/218091/classic-and-simple-meat-lasagna/
+
 https://www.allrecipes.com/recipe/241001/crispy-honey-sriracha-chicken-wings/
 
 but the how project was for me to understand the title how to use images and how to use a list in a website
