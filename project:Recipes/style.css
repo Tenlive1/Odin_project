@@ -1,0 +1,14 @@
+*{
+    background-color: skyblue;
+}
+
+#header{
+    text-align: center;
+}
+.List-container{
+    list-style: none;
+}
+
+.list-link{
+    text-decoration: none;
+}
